@@ -1,0 +1,67 @@
+EN:
+
+(:
+Welcome!
+
+Game Objective:
+Reach the goal, collect as many treasures as possible, but be careful, the residents of CrabIsland are watching your every move.
+
+Player Controls and Other Inputs:
+Left -> A
+Right -> D
+Jump -> Space
+Access in-game settings -> ESC
+Attack -> Left click
+
+Enemies and Traps:
+The Crab
+If you get within a certain distance of the crab, it will spot you and start chasing. If it catches you, it will injure you.
+
+The Spikes
+If you touch them, the game ends.
+
+Treasures:
+In the game, there are treasures, specifically gold coins, which are worth 10 points each when collected.
+
+How to Win?
+Reach the small flag at the end of the level.
+
+Have fun!
+
+HU:
+
+(:
+Üdvözöllek!
+
+
+Játék lényege:
+
+Juss el a célba, gyűjts minél több kincset de vigyázz, a CrabIsland lakói árgus szemmel figyelik minden lépésed.
+
+Játékos irányítása és egyéb inputok:
+
+Bal -> A
+Jobb -> D
+Ugrás -> Space
+Játék közbeni beállítások elérése -> ESC
+Támadás -> Bal click
+
+Ellenségek és csapdák:
+
+A rák:
+Ha egy bizonyos távolságra vagy a ráktól, meglát és üldözni kezd, ha elér megsebez.
+
+A tüskék:
+Ha hozzáérsz a játék véget ér.
+
+
+Kincsek:
+A játékban vannak kincsek, pontosabban aranyérmék, amelyeket ha összegyűjtesz, darabonként 10 pontot érnek.
+
+
+Hogyan nyerhetsz?
+
+Érd el a pálya végén lévő kis zászlót.
+
+
+Jó szórakozást!
